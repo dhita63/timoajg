@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: http://dwhk88.fuckingblocksyntax.com/sitemap.xml
